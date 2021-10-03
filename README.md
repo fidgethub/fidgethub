@@ -1,6 +1,4 @@
-account exists for specific purposes.
-
-appreciate checking this though.
+account exists for specific purposes, but i appreciate you checking this out.
 
 <!---
 fidgethub/fidgethub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
